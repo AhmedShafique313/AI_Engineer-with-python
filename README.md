@@ -16,4 +16,7 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 3. Conditionals: Here is a link to learn the coditionals in python: [Link](https://www.guru99.com/if-loop-python-conditional-structures.html)   also check the code file as well `master_if_cond.py` in python complete folder.
   - First exercise of python programming is here [Description](https://github.com/AhmedShafique313/AI_Engineer-with-python/blob/main/Python%20Complete/Exercise%20Solutions/sugar-level-description.md) 
 
+4. Loops: Go to the folder `python complete` and see different files starting from `loop1.py to loop4.py` run them and check what's happening.🤔
+
+5. Type Casting: 
 
