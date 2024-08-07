@@ -14,4 +14,6 @@ Here is a link to learn the basic python: [Link](https://learnxinyminutes.com/do
 Here is a link to learn the variables and data-types in python: [Link](https://realpython.com/python-data-types/)
 
 3. Conditionals: Here is a link to learn the coditionals in python: [Link](https://www.guru99.com/if-loop-python-conditional-structures.html)   also check the code file as well `master_if_cond.py` in python complete folder.
+- First exercise of python programming is here [Description](https://github.com/AhmedShafique313/AI_Engineer-with-python/blob/main/Python%20Complete/Exercise%20Solutions/sugar-level-description.md) 
+
 
