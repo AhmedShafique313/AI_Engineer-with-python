@@ -5,6 +5,6 @@ Before you're going to do programming learn about the computer and its networks 
 `Must Learn` these things before doing the programming.
 ### Roadmap of python programming language.
 The roadmap is following 
-1. Basic Syntax of python
+1. Basic Syntax of python.
 Here is a link to learn the basic python: [Link](https://learnxinyminutes.com/docs/python/)
 
