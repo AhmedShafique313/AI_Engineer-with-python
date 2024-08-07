@@ -13,4 +13,4 @@ Here is a link to learn the basic python: [Link](https://learnxinyminutes.com/do
 2. Variables and data types in python.
 Here is a link to learn the variables and data-types in python: [Link](https://realpython.com/python-data-types/)
 
-3. Conditionals: Here is a link to learn the coditionals in python: [Link](https://www.guru99.com/if-loop-python-conditional-structures.html)
+3. Conditionals: Here is a link to learn the coditionals in python: [Link](https://www.guru99.com/if-loop-python-conditional-structures.html)   also check the code file as well `master_if_cond.py` in python complete folder.
