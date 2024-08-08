@@ -21,3 +21,6 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 5. Type Casting: Here is link to learn type casting in python and there are two types of Type Casting in python `Implict` and `Explict`. [Click](https://www.programiz.com/python-programming/type-conversion-and-casting)
 
 6. Functions: Two type of functions. `built-in` functions and `user define` functions. Here are the links of both type of functions. [Link1](https://www.w3schools.com/python/python_functions.asp) [Link2](https://docs.python.org/3/library/functions.html)
+
+
+7. Json: Javascript Object Notation. Go to the link to learn about the json library in python and enjoy happy learning. Here is a link to learn. 
