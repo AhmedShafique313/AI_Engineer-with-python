@@ -23,4 +23,5 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 6. Functions: Two type of functions. `built-in` functions and `user define` functions. Here are the links of both type of functions. [Link1](https://www.w3schools.com/python/python_functions.asp) [Link2](https://docs.python.org/3/library/functions.html)
 
 
-7. Json: Javascript Object Notation. Go to the link to learn about the json library in python and enjoy happy learning. Here is a link to learn. 
+7. Json: Javascript Object Notation. Go to the link to learn about the json library in python and enjoy happy learning. Here is a link to learn. [w3schools](https://www.w3schools.com/python/python_json.asp)
+
