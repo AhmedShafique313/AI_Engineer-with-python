@@ -18,13 +18,11 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 
 4. Loops: Go to the folder `python complete` and see different files starting from `loop1.py to loop4.py` run them and check what's happening.🤔
 
-5. Type Casting: Here is link to learn type casting in python and there are two types of Type Casting in python `Implict` and `Explict`. [Click](https://www.programiz.com/python-programming/type-conversion-and-casting)
+5. Type Casting: Here is link to learn type casting in python and there are two types of Type Casting in python `Implict` and `Explict`. [Programiz](https://www.programiz.com/python-programming/type-conversion-and-casting)
 
-6. Functions: Two type of functions. `built-in` functions and `user define` functions. Here are the links of both type of functions. [Link1](https://www.w3schools.com/python/python_functions.asp) [Link2](https://docs.python.org/3/library/functions.html)
+6. Functions: Two type of functions. `built-in` functions and `user define` functions. Here are the links of both type of functions. [w3schools](https://www.w3schools.com/python/python_functions.asp) [python_org](https://docs.python.org/3/library/functions.html)
 
 
 7. Json: Javascript Object Notation. Go to the link to learn about the json library in python and enjoy happy learning. Here is a link to learn. [w3schools](https://www.w3schools.com/python/python_json.asp) or from [Programiz](https://www.programiz.com/python-programming/json) or from [RealPython](https://realpython.com/python-json/)
 
-
-
-
+8. Lists in python: Lists are just like dynamic sized arrays, declared in other languages (vector in C++ and ArrayList in Java). Lists need not be homogeneous always which makes it the most powerful tool in Python. [TheNewStack](https://thenewstack.io/python-for-beginners-lists/) or from [Jerrynsh](https://jerrynsh.com/tuples-vs-lists-vs-sets-in-python/) or from 
