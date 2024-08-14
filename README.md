@@ -25,4 +25,4 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 
 7. Json: Javascript Object Notation. Go to the link to learn about the json library in python and enjoy happy learning. Here is a link to learn. [w3schools](https://www.w3schools.com/python/python_json.asp) or from [Programiz](https://www.programiz.com/python-programming/json) or from [RealPython](https://realpython.com/python-json/)
 
-8. Lists in python: Lists are just like dynamic sized arrays, declared in other languages (vector in C++ and ArrayList in Java). Lists need not be homogeneous always which makes it the most powerful tool in Python. [TheNewStack](https://thenewstack.io/python-for-beginners-lists/) or from [Jerrynsh](https://jerrynsh.com/tuples-vs-lists-vs-sets-in-python/) or from 
+8. Lists in python: Lists are just like dynamic sized arrays, declared in other languages (vector in C++ and ArrayList in Java). Lists need not be homogeneous always which makes it the most powerful tool in Python. [TheNewStack](https://thenewstack.io/python-for-beginners-lists/) or from [Jerrynsh](https://jerrynsh.com/tuples-vs-lists-vs-sets-in-python/) 
