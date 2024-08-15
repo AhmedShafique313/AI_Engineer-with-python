@@ -11,3 +11,6 @@ A user can interact with the online store, buy items from the store and get invo
 
 ### Marks:
 From the readme.md file all the python beginners concepts must be used in specific manner to get good grades in the project. 
+
+### Hint: 
+Go and check some online store websites and mention all the stuff in them.
