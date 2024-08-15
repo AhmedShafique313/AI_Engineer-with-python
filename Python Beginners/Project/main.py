@@ -1,17 +1,19 @@
+from user import user_login
+
 try:
-    while(1):
+    while True:
         select1 = input('Select the following: \n 1.Start \n 2.Stop \n >>> ')
-        if (select1 == '2'):
+        if select1 == '2':
             break
         else:
-            opt1 = input('Select from the following: \n 1.Admin \n 2.User \n >>>')
-            if (opt1 == 'Admin'):
+            opt1 = input('Select from the following: \n 1.Admin \n 2.User \n >>> ')
+            if opt1 == '1':
                 opt2 = input('Select from the following: \n 1.Superadmin \n 2.Admin \n >>> ')
-                if(opt2 == '1'):
+                if opt2 == '1':
                     print('Welcome Superadmin')
-                elif(opt2 == '2'):
+                else:
                     print('Welcome Admin')
-            elif(opt1 == '2'):
-                print('Welcome User')
+            else:
+                user_login()
 except Exception as e:
     print(f"An error occurred: {e}")
