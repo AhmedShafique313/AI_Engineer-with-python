@@ -6,7 +6,7 @@ Before you're going to do programming learn about the computer and its networks 
 
 `Must Learn` these things before doing the programming. For AI Engineering you need to complete just 4 units.
 ## Roadmap of python programming language.
-### 1. Python for Begineers
+### 1. Python for Begineers (1-2 weeks)
 The roadmap is following 
 1. Basic Syntax of python.
 Here is a link to learn the basic python: [Click](https://learnxinyminutes.com/docs/python/)
