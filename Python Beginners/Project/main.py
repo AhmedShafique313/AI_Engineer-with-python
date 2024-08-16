@@ -1,5 +1,6 @@
 from user import user_login
 from superadmin import super_sign_in
+from admin import admin_sign_in
 
 try:
     while True:
@@ -13,7 +14,7 @@ try:
                 if opt2 == '1':
                     super_sign_in()
                 else:
-                    print('Welcome Admin')
+                    admin_sign_in()
             else:
                 user_login()
 except Exception as e:
