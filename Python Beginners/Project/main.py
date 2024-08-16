@@ -1,4 +1,5 @@
 from user import user_login
+from superadmin import super_sign_in
 
 try:
     while True:
@@ -10,7 +11,7 @@ try:
             if opt1 == '1':
                 opt2 = input('Select from the following: \n 1.Superadmin \n 2.Admin \n >>> ')
                 if opt2 == '1':
-                    print('Welcome Superadmin')
+                    super_sign_in()
                 else:
                     print('Welcome Admin')
             else:
