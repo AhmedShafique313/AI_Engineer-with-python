@@ -1,7 +1,7 @@
 from user import user_login
 from superadmin import super_sign_in
 from admin import admin_sign_in
-from items import search
+from items import search, priting_items
 
 try:
     while True:
@@ -19,5 +19,10 @@ try:
             else:
                 user_login()
                 search()
+                printing = input('Do you want to print all the items in the store? /n >>> ')
+                if printing == 'yes':
+                    priting_items()
+                else:
+                    print('Invalid command')
 except Exception as e:
     print(f"An error occurred: {e}")

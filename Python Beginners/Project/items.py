@@ -1,4 +1,6 @@
-categories = {"fruits", "vegetables", "detergents", "grocery", "deserts", "clothes", "medicine"}
+import pandas as pd
+
+categories = {"fruits", "vegetables", "detergents", "grocery"}
 fruits = {"apple", "banana", "orange", "peach"}
 vegetables = {"tomato", "potato", "onion", "garlic"}
 detergents = {"soap", "shampoo", "conditioner", "surf"}
@@ -23,4 +25,15 @@ def search():
         print(see5, 'found')
     else:
         print('Not available X')
+    return
+
+def priting_items():
+    categories = ["fruits", "vegetables", "detergents", "grocery"]
+    fruits = ["apple", "banana", "orange", "peach"]
+    vegetables = ["tomato", "potato", "onion", "garlic"]
+    detergents = ["soap", "shampoo", "conditioner", "surf"]
+    grocery = ["sugar", "tea", "chili", "dals"]
+    df = pd.DataFrame(columns= ["fruits", "vegetables", "detergents", "grocery"])
+    df['fruits'], df['vegetables'], df['detergents'], df['grocery'] = fruits, vegetables, detergents, grocery
+    print(df.head())
     return
