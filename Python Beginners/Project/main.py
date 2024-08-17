@@ -1,6 +1,7 @@
 from user import user_login
 from superadmin import super_sign_in
 from admin import admin_sign_in
+from items import search
 
 try:
     while True:
@@ -17,5 +18,6 @@ try:
                     admin_sign_in()
             else:
                 user_login()
+                search()
 except Exception as e:
     print(f"An error occurred: {e}")
