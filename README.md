@@ -32,5 +32,7 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 
 10. Dictionary: In python, Dictionary is an ordered (since Py 3.7) [unordered (Py 3.6 & prior)] collection of data values, used to store data values like a map, which, unlike other Data Types that hold only a single value as an element, Dictionary holds key:value pair. Key-value is provided in the dictionary to make it more optimized. [w3schools](https://www.w3schools.com/python/python_dictionaries.asp)
 
+`Project` Online Store management system using python beginners concept. You'll find the project description in this folder [Description](https://github.com/AhmedShafique313/AI_Engineer-with-python/blob/main/Python%20Beginners/Project/project_description.md)
+
 ### 2. Python for Intermediate
 1. Json: Javascript Object Notation. Go to the link to learn about the json library in python and enjoy happy learning. Here is a link to learn. [w3schools](https://www.w3schools.com/python/python_json.asp) or from [Programiz](https://www.programiz.com/python-programming/json) or from [RealPython](https://realpython.com/python-json/)
