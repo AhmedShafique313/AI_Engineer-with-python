@@ -2,6 +2,7 @@ from user import user_login
 from superadmin import super_sign_in
 from admin import admin_sign_in
 from items import search, priting_items
+from calculations import price_estimate
 
 try:
     while True:
@@ -22,6 +23,7 @@ try:
                 printing = input('Do you want to print all the items in the store? /n >>> ')
                 if printing == 'yes':
                     priting_items()
+                    price_estimate()
                 else:
                     print('Invalid command')
 except Exception as e:
