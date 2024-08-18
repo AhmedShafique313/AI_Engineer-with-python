@@ -36,3 +36,6 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 
 ### 2. Python for Intermediate
 1. Json: Javascript Object Notation. Go to the link to learn about the json library in python and enjoy happy learning. Here is a link to learn. [w3schools](https://www.w3schools.com/python/python_json.asp) or from [Programiz](https://www.programiz.com/python-programming/json) or from [RealPython](https://realpython.com/python-json/)
+
+### 3. Data Structures in Python
+1. Learn Data Structures from different courses. Here are the links of the courses which are freely available [Programiz](https://programiz.pro/learn/master-dsa-with-python) or 
