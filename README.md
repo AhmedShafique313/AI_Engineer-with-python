@@ -41,5 +41,7 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 
 3. Custom modules in python: As our program grows bigger, it may contain many lines of code. Instead of putting everything in a single file, we can use modules to separate codes in separate files as per their functionality. This makes our code organized and easier to maintain. [Programiz](https://www.programiz.com/python-programming/modules)
 
+4. Python decorators: A decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure. Decorators are typically applied to functions, and they play a crucial role in enhancing or modifying the behavior of functions. [DataCamp](https://www.datacamp.com/tutorial/decorators-python)
+
 ### 3. Data Structures in Python
 1. Learn Data Structures from different courses. Here are the links of the courses which are freely available [Programiz](https://programiz.pro/learn/master-dsa-with-python)
