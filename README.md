@@ -43,5 +43,7 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 
 4. Python decorators: A decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure. Decorators are typically applied to functions, and they play a crucial role in enhancing or modifying the behavior of functions. [DataCamp](https://www.datacamp.com/tutorial/decorators-python)
 
+5. Python Iterators: An iterator is an object that contains a countable number of values. An iterator is an object that can be iterated upon, meaning that you can traverse through all the values.
+
 ### 3. Data Structures in Python
 1. Learn Data Structures from different courses. Here are the links of the courses which are freely available [Programiz](https://programiz.pro/learn/master-dsa-with-python)
