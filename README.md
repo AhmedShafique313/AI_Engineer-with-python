@@ -6,7 +6,7 @@ Before you're going to do programming learn about the computer and its networks 
 
 `Must Learn` these things before doing the programming. For AI Engineering you need to complete just 4 units.
 ## Roadmap of python programming language.
-### 1. Python for Begineers (1-2 weeks)
+### 1. Python for Beginners (1-2 weeks)
 The roadmap is following 
 1. Basic Syntax of python.
 Here is a link to learn the basic python: [Click](https://learnxinyminutes.com/docs/python/)
@@ -17,7 +17,7 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 3. Conditionals: Here is a link to learn the coditionals in python: [Click](https://www.guru99.com/if-loop-python-conditional-structures.html)   also check the code file as well `master_if_cond.py` in python complete folder.
   - First exercise of python programming is here [Description](https://github.com/AhmedShafique313/AI_Engineer-with-python/blob/main/Python%20Complete/Exercise%20Solutions/sugar-level-description.md) 
 
-4. Loops: Go to the folder `python Begineers` and see different files starting from `loop1.py to loop4.py` run them and check what's happening.🤔
+4. Loops: Go to the folder `python Beginners` and see different files starting from `loop1.py to loop4.py` run them and check what's happening.🤔
 
 5. Type Casting: Here is link to learn type casting in python and there are two types of Type Casting in python `Implict` and `Explict`. [Programiz](https://www.programiz.com/python-programming/type-conversion-and-casting)
 
