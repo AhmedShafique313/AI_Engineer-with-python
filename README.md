@@ -45,5 +45,7 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 
 5. Python Iterators: An iterator is an object that contains a countable number of values. An iterator is an object that can be iterated upon, meaning that you can traverse through all the values. [w3schools](https://www.w3schools.com/python/python_iterators.asp) or [Programiz](https://www.programiz.com/python-programming/iterator)
 
+6. Regular Expression: Regular expressions use the backslash character ('\') to indicate special forms or to allow special characters to be used without invoking their special meaning. [TutorialPoint](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
+
 ### 3. Data Structures in Python
 1. Learn Data Structures from different courses. Here are the links of the courses which are freely available [Programiz](https://programiz.pro/learn/master-dsa-with-python)
