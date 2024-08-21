@@ -47,5 +47,15 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 
 6. Regular Expression: Regular expressions use the backslash character ('\') to indicate special forms or to allow special characters to be used without invoking their special meaning. [TutorialPoint](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
 
+7. Package Managers in python: Package managers allow you to manage the dependencies (external code written by you or someone else) that your project needs to work correctly.
+
+PyPI and Pip are the most common contenders but here are some other options available as well:
+  - Poetry: Poetry is a dependency management and packaging tool for Python that runs on Windows, macOS, and Linux. Poetry efficiently installs, manages, and updates packages and their dependencies. Poetry seamlessly creates, saves, loads, and switches between project environments on your local computer. [PythonDocs](https://python-poetry.org/docs/)
+  - Conda: Conda is an open source package management system and environment management system that runs on Windows, macOS, and Linux. Conda quickly installs, runs and updates packages and their dependencies. Conda easily creates, saves, loads and switches between environments on your local computer. [Conda](https://docs.conda.io/en/latest/)
+  - PyPl: PyPI, typically pronounced pie-pee-eye, is a repository containing several hundred thousand packages. These range from trivial Hello, World implementations to advanced deep learning libraries. [pypl](https://pypi.org/)
+  - Pip: The standard package manager for Python is pip. It allows you to install and manage packages that aren’t part of the Python standard library. [w3schools](https://www.w3schools.com/python/python_pip.asp)
+  - PypX: Install and Run Python Applications in Isolated Environments. [GitHub](https://github.com/pypa/pipx)
+
+
 ### 3. Data Structures in Python
 1. Learn Data Structures from different courses. Here are the links of the courses which are freely available [Programiz](https://programiz.pro/learn/master-dsa-with-python)
