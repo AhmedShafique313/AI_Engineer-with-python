@@ -66,7 +66,7 @@ PyPI and Pip are the most common contenders but here are some other options avai
 
 
 ### 4. Object Oriented Programming in Python
-1. Classes, Contructor and inheritance: If you want to learn them deeply then go to my other repository link where you see my practical implementation with concepts of the object oriented programming. [ObjectOrientedDesign&Programming](https://github.com/AhmedShafique313/Object-Oriented-Design-and-Programming-Course)
+- Complete OOP: If you want to learn them deeply then go to my other repository link where you see my practical implementation with all the concepts of the object oriented programming. [ObjectOrientedDesign&Programming](https://github.com/AhmedShafique313/Object-Oriented-Design-and-Programming-Course)
 
 
 ### 5. Advanced in python.
