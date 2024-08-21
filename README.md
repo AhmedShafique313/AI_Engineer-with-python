@@ -34,7 +34,7 @@ Here is a link to learn the variables and data-types in python: [Link](https://r
 
 `Project` Online Store management system using python beginners concept. You'll find the project description in this folder [Description](https://github.com/AhmedShafique313/AI_Engineer-with-python/blob/main/Python%20Beginners/Project/project_description.md)
 
-### 2. Python for Intermediate
+### 2. Intermediate in Python
 1. Json: Javascript Object Notation. Go to the link to learn about the json library in python and enjoy happy learning. Here is a link to learn. [w3schools](https://www.w3schools.com/python/python_json.asp) or from [Programiz](https://www.programiz.com/python-programming/json) or from [RealPython](https://realpython.com/python-json/)
 
 2. Built-in modules in Python: Python Module is essentially a python script file that can contain variables, functions, and classes. Python modules help us in organizing our code and then referencing them in other classes or python scripts. [DigitalOcean](https://www.digitalocean.com/community/tutorials/python-modules)
@@ -59,3 +59,5 @@ PyPI and Pip are the most common contenders but here are some other options avai
 
 ### 3. Data Structures in Python
 1. Learn Data Structures from different courses. Here are the links of the courses which are freely available [Programiz](https://programiz.pro/learn/master-dsa-with-python)
+
+### 4. Advanced in python.
