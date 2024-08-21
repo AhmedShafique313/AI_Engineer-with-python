@@ -63,3 +63,6 @@ PyPI and Pip are the most common contenders but here are some other options avai
 ### 4. Object Oriented Programming in Python
 
 ### 5. Advanced in python.
+1. Python frameworks: Frameworks automate the common implementation of common solutions which gives the flexibility to the users to focus on the application logic instead of the basic routine processes. These frameworks are updated and they are synchronous + Asynchronous. [TheNewStack](https://thenewstack.io/pyscript-a-browser-based-python-framework/)
+
+  - Flask:
