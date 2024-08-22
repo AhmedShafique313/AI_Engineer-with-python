@@ -7,4 +7,8 @@
     - Predictive: Predictive analysis is a crucial type of data analytics that any competent data analyst should comprehend. It refers to the practice of extracting information from existing data sets in order to determine patterns and forecast future outcomes and trends. Data analysts apply statistical algorithms, machine learning techniques, and artificial intelligence to the data to anticipate future results. Predictive analysis enables organizations to be proactive, forward-thinking, and strategic by providing them valuable insights on future occurrences. It’s a powerful tool that gives companies a significant competitive edge by enabling risk management, opportunity identification, and strategic decision-making.
     - Prescriptive: Prescriptive analytics, a crucial type of data analytics, is essential for making data-driven decisions in business and organizational contexts. As a data analyst, the goal of prescriptive analytics is to recommend various actions using predictions on the basis of known parameters to help decision makers understand likely outcomes. Prescriptive analytics employs a blend of techniques and tools such as algorithms, machine learning, computational modelling procedures, and decision-tree structures to enable automated decision making. Therefore, prescriptive analytics not only anticipates what will happen and when it will happen, but also explains why it will happen, contributing to the significance of a data analyst’s role in an organization.
 
-2. Key concepts of data:
+2. Key concepts for data:
+    - Collection
+    - Cleaning
+    - Exploration
+    - Visulization
