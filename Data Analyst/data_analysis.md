@@ -19,3 +19,5 @@
     - Learn Python: Udemy [Course](https://www.udemy.com/course/learn_py/learn/) or GitHub [Roadmap](https://github.com/AhmedShafique313/AI_Engineer-with-python/tree/main?tab=readme-ov-file#1-python-for-beginners-1-2-weeks)
     - Data Manipulation library: [Pandas](https://pandas.pydata.org/)
     - Data Visualization library: [Matplotlib](https://matplotlib.org/)
+
+Data Analysis part is completed. 
