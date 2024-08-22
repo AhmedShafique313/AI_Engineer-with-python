@@ -73,3 +73,7 @@ PyPI and Pip are the most common contenders but here are some other options avai
 1. Python frameworks: Frameworks automate the common implementation of common solutions which gives the flexibility to the users to focus on the application logic instead of the basic routine processes. These frameworks are updated and they are synchronous + Asynchronous. [TheNewStack](https://thenewstack.io/pyscript-a-browser-based-python-framework/)
 
   - Flask: Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. Instead, it provides flexibility by requiring you to choose and integrate the best libraries for your project’s needs. [flask](https://flask.palletsprojects.com/en/3.0.x/)
+
+  - Django: Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. [DjangoProject](https://www.djangoproject.com/)
+
+## Roadmap of Artificial Intelligence/Machine Learning 🧠
