@@ -76,4 +76,6 @@ PyPI and Pip are the most common contenders but here are some other options avai
 
   - Django: Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. [DjangoProject](https://www.djangoproject.com/)
 
+2. Testing: `Pytest` pytest is a mature full-featured Python testing tool that helps you write better programs. [PytestDocs](https://docs.pytest.org/en/stable/)
+
 ## Roadmap of Artificial Intelligence/Machine Learning 🧠
