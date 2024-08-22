@@ -87,5 +87,6 @@ A Data Analyst is a professional primarily tasked with collecting, processing, a
 
 ### What is data analysis?
 Data Analysis plays a crucial role in today’s data-centric world. It involves the practice of inspecting, cleansing, transforming, and modeling data to extract valuable insights for decision-making.
+Here is a link to learn everything about the data analyst in AI. [DataAnalyst](https://github.com/AhmedShafique313/AI_Engineer-with-python/blob/main/Data%20Analyst/data_analysis.md)
 
 ## Roadmap of Artificial Intelligence/Machine Learning 🧠
