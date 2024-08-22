@@ -78,4 +78,14 @@ PyPI and Pip are the most common contenders but here are some other options avai
 
 2. Testing: `Pytest` pytest is a mature full-featured Python testing tool that helps you write better programs. [PytestDocs](https://docs.pytest.org/en/stable/)
 
+## Roadmap of Data Analyst 👨‍💻
+### Why I am adding data analysis in the AI roadmap?
+Because as a AI Engineer you know about how to deal with data. How to get data from various resources and automate the entire process. AI models requires different types of data for different types of training and involvement. 
+
+### What is data analyst?
+A Data Analyst is a professional primarily tasked with collecting, processing, and performing statistical analysis on large datasets. They discover how data can be used to answer questions and solve problems.
+
+### What is data analysis?
+Data Analysis plays a crucial role in today’s data-centric world. It involves the practice of inspecting, cleansing, transforming, and modeling data to extract valuable insights for decision-making.
+
 ## Roadmap of Artificial Intelligence/Machine Learning 🧠
