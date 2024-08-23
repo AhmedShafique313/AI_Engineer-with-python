@@ -21,9 +21,9 @@ for i in range(0, len(text)-seq_len, step_size):
 # numeric formating
 
 x = np.zeros((len(sentences), seq_len,
-              len(characters)), dtype=np.bool)
+              len(characters)), dtype=bool)
 
-y = np.zeros((len(sentences), len(characters)), dtype=np.bool)
+y = np.zeros((len(sentences), len(characters)), dtype=bool)
 for i, satz in enumerate(sentences):
     for t, char in enumerate(satz):
         x[i, t, char_index[char]] = 1
