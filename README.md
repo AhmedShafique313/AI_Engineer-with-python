@@ -90,3 +90,4 @@ Data Analysis plays a crucial role in today’s data-centric world. It involves 
 Here is a link to learn everything about the data analyst in AI. [DataAnalyst](https://github.com/AhmedShafique313/AI_Engineer-with-python/blob/main/Data%20Analyst/data_analysis.md)
 
 ## Roadmap of Artificial Intelligence/Machine Learning 🧠
+1. Linear Algebra: [YouTube](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
