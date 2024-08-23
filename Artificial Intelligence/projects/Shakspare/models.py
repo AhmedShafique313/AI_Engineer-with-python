@@ -15,7 +15,7 @@ model.add(Activation('softmax'))
 
 model.compile(loss='categorical_crossentropy', 
               optimizer=RMSprop(learning_rate=0.01))
-model.fit(x, y, batch_size= 256, epochs=6)
+model.fit(x, y, batch_size= 256, epochs=4)
 
 def sample(preds, temperature=1.0):
     preds = np.asarray(preds).astype('float64')

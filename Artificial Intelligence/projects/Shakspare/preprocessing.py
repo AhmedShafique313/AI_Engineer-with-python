@@ -1,13 +1,13 @@
 from load import text, tf, file_path, np
 
 text = open(file_path, 'rb').read().decode(encoding='utf-8').lower()
-text = text[10000:70000]
+text = text[30000:80000]
 
 characters = sorted(set(text))
 char_index = dict((c, i) for i, c in enumerate(characters))
 index_char = dict((i, c) for i, c in enumerate(characters))
 
-seq_len = 50
+seq_len = 40
 step_size = 3
 
 sentences = []
